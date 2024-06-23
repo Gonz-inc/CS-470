@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-In this course, I developed a full stack application that runs in the cloud. By applying cloud-based development principles and best practices, I enhanced the software stack from Full Stack Development I to utilize frameworks that build the cloud architecture on which the application runs. Additionally, this course provided me with the opportunity to demonstrate my career readiness by articulating highly technical content to various audiences in multiple formats.
+In this course, I developed a full stack application that runs in the cloud. By applying cloud-based development principles and best practices, from what i have learned from Full Stack Development I. I utilize frameworks that build the cloud architecture on which the application runs. Additionally, this course provided me with the opportunity to demonstrate my career readiness by creating highly technical content to various audiences in multiple formats.
 
 ## Major Projects
 
